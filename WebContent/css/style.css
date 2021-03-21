@@ -1,0 +1,122 @@
+header #header_links a{
+	font-family:Calibiri;
+	text-decoration:none;
+	font-size:20px;
+}
+header #header_links a:hover{
+	color:black;
+}
+
+.form_login_post{
+	display:block;
+	left: 0;
+	right: 0;
+	top: 30vh;
+	bottom: 0;
+	margin: auto;
+	max-width: 100%;
+	max-height: 100%;
+	overflow: auto;
+}
+.logo{
+	font-family:Calibiri Light;
+	font-size:35px;
+	color:red;
+}
+
+.login_text{
+	font-size:30px;
+	font-family:Banhschrift Light;
+	text-align:center;
+}
+.overhead_text{
+	font-family:Bahnschrift Light;
+	font-size:30px;
+}
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 245px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: red;
+  color: white;
+  text-decoration:none;
+  cursor:pointer;
+}
+  .table-row
+  {
+    display: table;
+    width: 90%;
+    margin: 10px auto;
+    font-family: sans-serif;
+    background:transparent;
+    padding: 12px 0;
+    color: #555;
+    font-size: 13px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,50,0.3);
+  }
+  
+  .table-cell
+  {
+  display: table-cell;
+  width: 20%;
+  text-align: center;
+  padding : 40px 0;
+  border-right: 1px solid #d6d4d4;
+  vertical-align: middle;
+  }
+  
+  .table-head
+  {
+  background: red;
+  box-shadow: none;
+  color: white;
+  font-weight:600;
+  }
+  
+  .table-head .table-cell
+  {
+  border-right:none;
+  }
+  
+  .last-cell
+  {
+  border-right: none;
+  }
+  
+  .left-alinging
+  {
+  text-align: left;
+  padding: 10px;
+  }
+.data_hidden{
+	display:none;
+}
+.frame_dim{
+	height:400px;
+}
+
+
+
+
+
+
+
+
+
+
